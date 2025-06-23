@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "myown",
+      "inherits": "default"
+    }
+  ]
+}
